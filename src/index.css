@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.cdnfonts.com/css/br-omny");
+
+:root {
+  font-family: "BR Omny", system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color: #111;
+  background-color: #f7efe7;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
